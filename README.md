@@ -1,6 +1,6 @@
 # 🏷️ Project Title
 
-Work4Flow – GenAI Workflow Optimization (High-Fidelity HTML/CSS Presentation Interface)
+BITS & BRAINS AI – GenAI Workflow Optimization (High-Fidelity HTML/CSS Presentation Interface)
 
 ---
 
